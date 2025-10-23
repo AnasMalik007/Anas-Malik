@@ -1,0 +1,5 @@
+{
+  "name": "MediScan AI by ANAS",
+  "description": "An intelligent medical document analyzer. Upload lab reports, prescriptions, or medicine labels, and get a simplified interpretation, medication details, and a potential diagnosis confirmation powered by AI. This tool is for informational purposes only and is not a substitute for professional medical advice.",
+  "requestFramePermissions": []
+}
